@@ -7,6 +7,7 @@ local extensions = {
   esmodule = "mjs",
   typescript = "ts",
   typescriptreact = "tsx",
+  yaml = "yaml",
 }
 ---@type conform.FileFormatterConfig
 return {
